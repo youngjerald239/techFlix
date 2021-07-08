@@ -2,9 +2,12 @@
     position: fixed;
     top: 0;
     width: 100%;
+    height: 10px;
+    z-index: 1;
     padding: 20px;
     display:flex;
     justify-content: space-between;
+    background-color: #111;
 }
 
 .nav__logo {
