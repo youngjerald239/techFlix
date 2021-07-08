@@ -39,3 +39,9 @@
     background-color: rgb(32, 32, 32);
     padding-bottom: 0.5rem;
 }
+
+.banner__button:hover {
+    color:black;
+    background-color: aliceblue;
+    transition: all 0.2s;
+}
